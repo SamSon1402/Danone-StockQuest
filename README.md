@@ -1,5 +1,11 @@
 # Danone StockQuest
 
+![Image](https://github.com/user-attachments/assets/95713734-f630-40cb-9263-6efc7653f819)
+
+![Image](https://github.com/user-attachments/assets/230737a5-035d-4821-8d95-aca2978385fc)
+
+![Image](https://github.com/user-attachments/assets/423551ef-9a04-4a1f-bdd6-c2d2dc500223)
+
 ## Overview
 Danone StockQuest is an AI-driven demand forecasting and waste reduction platform with a retro gaming aesthetic. The application helps Danone optimize supply chain operations, prioritize country requests, and simulate demand scenarios.
 
